@@ -1,3 +1,9 @@
+hearder {
+  border-botton: solid 3px #ca9c11 ;
+  pedding: 10px;
+  font-size: 22px;
+  color:white;
+}
 body{
   background-color:ccccff}
 h1{ color: cc00cc } 
@@ -6,3 +12,4 @@ P{
   color:  ;
 }
   
+
